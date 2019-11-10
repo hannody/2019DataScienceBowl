@@ -1,4 +1,7 @@
 # 2019DataScienceBowl
+
+https://www.kaggle.com/c/data-science-bowl-2019/data
+
 Uncover the factors to help measure how young children learn, Kaggle Competition, Tools:Python Stack.
 
 In this dataset, you are provided with game analytics for the PBS KIDS Measure Up! app. In this app, children navigate a map and complete various levels, which may be activities, video clips, games, or assessments. Each assessment is designed to test a child's comprehension of a certain set of measurement-related skills. There are five assessments: Bird Measurer, Cart Balancer, Cauldron Filler, Chest Sorter, and Mushroom Sorter.
