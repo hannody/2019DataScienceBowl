@@ -102,5 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#csv
 .csv
+*.csv
+.pkl
+*.pkl
 
